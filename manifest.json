@@ -16,5 +16,22 @@
     "icons":
     {
         "48": "img/tg.svg"
-    }
+    },
+
+    "action":
+    {
+        "default_icon": "img/tg.svg"
+    },
+
+    "sidebar_action":
+    {
+        "default_title": "Tree Groups",
+        "default_panel": "html/sidebar.html",
+        "default_icon": "img/tg.svg"
+    },
+
+	"background":
+	{
+		"scripts": ["js/background.js"]
+	}
 }
