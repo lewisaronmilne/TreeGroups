@@ -11,7 +11,7 @@
 		}
     },
 
-    "description": "Adds sidebar tabs that are organised into trees and groups",
+    "description": "Adds sidebar tabs that are organised into trees and groups. ",
 
     "icons":
     {
@@ -29,6 +29,11 @@
         "default_panel": "html/sidebar.html",
         "default_icon": "img/tg.svg"
     },
+
+    "permissions":
+	[
+		"tabs"
+	],
 
 	"background":
 	{
